@@ -5,6 +5,7 @@ Real Data is messy and more often than not a considerable fraction of feature va
 
 ## Scope
 Data imputation is performed on several datasets provided for an academic project. Imputation can be performed on datasets containing numerical and categorical feature values. The algorithm's performance is evaluated by calculating the NRMS values (for numerical data) and AE values (for categorical data).
+Note: All the datasets for this project were in the form of excel files and the imputed datafile are also excel files
 
 
 
