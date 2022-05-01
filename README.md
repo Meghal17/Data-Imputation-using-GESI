@@ -13,9 +13,9 @@ Data imputation is performed on several datasets provided for an academic projec
 2. GRNN.py: Implements the GRNN class to be used in GESI
 3. Helpers.py: Contains helper functions to implements SAGA Feature selection, Calculate evaluation metrics, read, and process data.
 4. Imputation.py: Contains 3 imputation functions:
-   1. `impute_numerical` : function to impute datasets where features are represented by numerical values only
-   2. `impute_categorical`: function to impute datasets where features are represented by categorical values only
-   3. `impute_combined`: function to impute datasets where some features are represented by categorical values and others by numerical values.
+   1. `impute_numerical()` : function to impute datasets where features are represented by numerical values only
+   2. `impute_categorical()`: function to impute datasets where features are represented by categorical values only
+   3. `impute_combined()`: function to impute datasets where some features are represented by categorical values and others by numerical values.
 5. Config.py: contains info about various paths to read data and store results.
 6. Datasets: Directory containing datasets
 7. Imputed: Directory to store imputed data files 
