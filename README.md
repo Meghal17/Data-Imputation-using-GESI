@@ -1,7 +1,6 @@
 # Data-Imputation-using-GESI
-Implementation of Generalized regression neural network Ensemble for Single Imputation (GESI) in Python.
 
-This is a Python implementation of Generalized regression neural network Ensemble for Single Imputation ( [GESI](https://www.sciencedirect.com/science/article/pii/S0925231210003188)) in Python. 
+This is a Python implementation of Generalized regression neural network Ensemble for Single Imputation ([GESI](https://www.sciencedirect.com/science/article/pii/S0925231210003188)) in Python. 
 
 
 • References
