@@ -1,0 +1,7 @@
+BASE = 'E:/UWindsor/Term 4/Data Mining/Project/Datasets/'
+BASE_PATH = BASE + 'Incomplete_Datasets_Without_Labels/'
+META = 'List_of_Datasets.xlsx'
+ORIGINAL_BASE_PATH = BASE + 'Original_Datasets_Without_Labels/'
+IMPUTED_NUMERICAL = 'E:/UWindsor/Term 4/Data Mining/Project/Github/Imputed/Numerical'
+IMPUTED_CAT = 'E:/UWindsor/Term 4/Data Mining/Project/Github/Imputed/Categorical'
+IMPUTED_COMBINED = 'E:/UWindsor/Term 4/Data Mining/Project/Github/Imputed/Numerical'
